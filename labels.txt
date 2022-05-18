@@ -1,0 +1,5 @@
+0 ant
+1 centipede
+2 cockroach
+3 fly
+4 spyder
